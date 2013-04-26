@@ -1,0 +1,61 @@
+== Description ==
+<h3>Scroll Nav ~easy to use one page navigation with icon menu builder~</h3>
+Scroll Nav allows users to build custom one-page navigation menu. Besides common scroll-to controls it additionally offers default blueprint set that is easy to customize or place on various portions of your page. It offers style &amp; layout management with multiple options. Easy to use scroll to top menu add-on, plus it is compatible to use as a Scroll Spy emplacement on template and content area. It will enable you to make one-page scroll navigation menus with no troubles. In addition, built-in icon menu builder will enable you to easily customize Font Awesome iconic fonts, titles and subtitles of your menus.
+<p><h3>Features</h3></p>
+<table>
+<tbody>
+<tr>
+<td><strong style="font-size: 1.1em;">Works With Sections</strong></td>
+<td>- Designed to work with <strong><em>Sections</em></strong> in <strong><em>Template</em></strong> and <em><strong>Content area.</strong> </em></td>
+</tr>
+<tr>
+<td><strong style="font-size: 1.1em;">Blueprint Templates</strong></td>
+<td>- <strong><em>The Set of </em></strong> pre-designed <strong><em>Layouts</em></strong>, as a <strong><em>starting point</em></strong> for customization.</td>
+</tr>
+<tr>
+<td><strong style="font-size: 1.1em;">Icon Menu Builder</strong></td>
+<td>- Easy to manipulate <strong><em>Font Awesome Icons</em></strong> for each menu item.</td>
+</tr>
+<tr>
+<td><strong style="font-size: 1.1em;">Multiple Positions</strong></td>
+<td>- Place your menu to the <em><strong>Left, Right</strong></em> or<strong><em> Top </em></strong>of the screen.</td>
+</tr>
+<tr>
+<td><strong style="font-size: 1.1em;">Full Color Control</strong></td>
+<td>- Take a full control of menu colors, <em><strong>including hover</strong> </em>and <em><strong>active</strong> </em>states.</td>
+</tr>
+<tr>
+<td><strong style="font-size: 1.1em;">Size &amp; Layout Control</strong></td>
+<td>- Define your own menu size or change menu layout controls.</td>
+</tr>
+<tr>
+<td><strong style="font-size: 1.1em;">Scroll Spy Emplacement</strong></td>
+<td>- <em><strong>Instantly works</strong></em> on page templates instead of Scroll Spy.</td>
+</tr>
+<tr>
+<td><strong style="font-size: 1.1em;">Scroll to Top</strong></td>
+<td>- Control <em><strong>Menu Item</strong></em> that gets you back to the top of the page.</td>
+</tr>
+</tbody>
+</table>
+<p><h3>Usage and Setup Instructions</h3></p>
+<ol>
+	<li>Install Scroll Nav section through Pagelines store.</li>
+	<li>Go to Pagelines "Drag &amp; Drop".</li>
+	<li>"Drag &amp; Drop" Scroll Nav to your page template.</li>
+	<li>Add sections to your template area.</li>
+	<li>Add Content Box or <a href="http://www.pagelines.com/store/sections/scroll-header-pro/" target="_blank">Scroll Header Pro</a> between sections. Create as many clones as you need.</li>
+	<li>Create new page with chosen template.</li>
+	<li>Configure scroll headings. (visit Demo page &gt; Configuration for more information)</li>
+	<li>On Scroll Nav metatab, select menu template and optionally add icon and subtext to each menu item.</li>
+	<li>Go to Site Options &gt; Scroll Nav to customize.</li>
+	<li>Blend Scroll Nav into your design and you are good to go.</li>
+</ol>
+<strong style="font-size: 1.2em;"> ***** Detailed explanation can be found on <a href="http://bestrag.net/scrollnav/" target="_blank">demo page</a>. *****</strong>
+<p><h3>Support</h3></p>
+Please leave all your support questions and feature suggestions on forum. Reviews add through "Click To Add a Review" link below. And don't forget to rate it.
+
+== Changelog ==
+
+= 1.0 =
+* Initial release.
