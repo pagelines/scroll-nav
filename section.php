@@ -361,7 +361,7 @@ class ScrollNav extends PageLinesSection {
                     'type'         =>    'multi_option',
                     'title'        => __( 'Menu Adjustments', 'pagelines' ),
                     'shortexp'     => __( 'additional menu control and customization', 'pagelines' ),
-                    'exp'          => __( '<br>Use <strong>Hide Title</strong> if you want to hide Titles from you menu. Use it if you wish to have <strong>icon-only menu</strong> or <strong>icons with Subtitle Text</strong>.
+                    'exp'          => __( '<br>Use <strong>Hide Title</strong> if you want to hide Titles from your menu. Use it if you wish to have <strong>icon-only menu</strong> or <strong>icons with Subtitle Text</strong>.
                     						<br>Use <strong>Font</strong> to change fonts for your menu items.
                     						<br>Use <strong>Menu top position</strong> to adjust menu distance from the top of the screen. Use positive or negative numerals.
                     						<br>Use <strong>Distance between Menu Items</strong> to add additional space between single menu items (default 2).
