@@ -159,7 +159,7 @@ class ScrollNav extends PageLinesSection {
 
         /* menu font */
         if ( ploption( 'text_font', $this->oset ) ) {
-                       echo load_custom_font( ploption( 'text_font', $this->oset ), "#scroll-nav .tcontainer" );
+                       echo load_custom_font( ploption( 'text_font', $this->oset ), "#scroll-nav .scrollnav" );
         }
     }
 
@@ -231,8 +231,8 @@ class ScrollNav extends PageLinesSection {
         for($i = 1; $i <= $item_num; $i++){
             $opts['item_'.$i] = array(
                 'type'         =>    'multi_option',
-                'title'        => __( 'Menu Item '.$i.' Options', 'pagelines' ),
-                'shortexp'     => __( 'select an icon or add subtitle text for '.$i.'. menu item.', 'pagelines'),
+                'title'        => __( 'Menu Item #'.$i.' Options', 'pagelines' ),
+                'shortexp'     => __( 'select an icon or add subtitle text for menu item #'.$i, 'pagelines'),
                 'selectvalues' => array(
                     'icon'.$i  => array(
                         'type'         => 'select',
@@ -270,7 +270,7 @@ class ScrollNav extends PageLinesSection {
                 'bkg-colors' => array(
                     'type'      => 'color_multi',
                     'title'     => __( 'Adjust Colors', 'pagelines' ),
-                    'shortexp'  => __( 'take a full control over menu colors', 'pagelines' ),
+                    'shortexp'  => __( 'take full control over menu colors', 'pagelines' ),
                     'exp'       => __( '<strong>Color customization</strong> for selected blueprint. Use color options to blend Scroll Nav into your Theme.
                     					<br><strong>HEADS UP:</strong> left and right blueprints do not use Section and Content Background. Use Scroll Nav Background instead.', 'pagelines' ),
                     'layout'    => 'full',
@@ -361,10 +361,10 @@ class ScrollNav extends PageLinesSection {
                     'type'         =>    'multi_option',
                     'title'        => __( 'Menu Adjustments', 'pagelines' ),
                     'shortexp'     => __( 'additional menu control and customization', 'pagelines' ),
-                    'exp'          => __( '<br>Use <strong>Hide Title</strong> if you want to hide Titles from you menu. Use it if you wish to have <strong>Icon-only menu</strong>.
+                    'exp'          => __( '<br>Use <strong>Hide Title</strong> if you want to hide Titles from you menu. Use it if you wish to have <strong>icon-only menu</strong> or <strong>icons with Subtitle Text</strong>.
                     						<br>Use <strong>Font</strong> to change fonts for your menu items.
-                    						<br>Use <strong>Menu top position</strong> to adjust menu distance from the top of the screen. Use positive or negative numerals.	
-                    						<br>Use <strong>Distance between Menu Items</strong> to add additional space between single menu items. (default 2).
+                    						<br>Use <strong>Menu top position</strong> to adjust menu distance from the top of the screen. Use positive or negative numerals.
+                    						<br>Use <strong>Distance between Menu Items</strong> to add additional space between single menu items (default 2).
                     						<br>Use <strong>Height and Width</strong> to adjust proportions of a single menu item. Requires proper css syntax.
                     						', 'pagelines' ),
                     'selectvalues' => array(

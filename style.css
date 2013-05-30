@@ -1,13 +1,11 @@
-    // Custom Icon Sizes
-    // -------------------------
-
-    .icon-5x {
+.icon-5x {
       font-size: 5em;
       &.icon-border {
         border-width: 5px;
         .border-radius(7px);
       }
     }
+
     .icon-6x {
       font-size: 6em;
       &.icon-border {
@@ -29,3 +27,4 @@
         .border-radius(10px);
       }
     }
+
